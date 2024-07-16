@@ -1,0 +1,10 @@
+Simple Program to show how to configure spring beans using Java file and setter dependency injection, Reference type as a dependency:
+Programs:
+* Address.java
+* Employee.java
+* Student.java
+* AppConfig.java
+* Test.java
+Output:
+Employee [empId=102, empName=Michel, age=28, designation=Software Tester, address=Address [houseNo=450-90-1, area=Gachibowli, city=Hyderabad, state=Telangana, country=India, zipCode=506778]]
+Student [sId=3003, sName=Lissa, age=26, course=Cyber Security, address=Address [houseNo=450-90-1, area=Gachibowli, city=Hyderabad, state=Telangana, country=India, zipCode=506778]]
